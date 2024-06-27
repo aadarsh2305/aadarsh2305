@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadarsh2305" alt="aadarsh2305" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aadarsh_gupta91" target="blank"><img src="https://img.shields.io/twitter/follow/aadarsh_gupta91?logo=twitter&style=for-the-badge" alt="aadarsh_gupta91" /></a> </p>
+<p align="left"> 
+  <a href="https://linkedin.com/in/aadarshgupta2305" target="blank">
+    <img src="https://img.shields.io/badge/-Aadarsh%20Gupta-blue?logo=linkedin&style=for-the-badge" alt="Aadarsh Gupta on LinkedIn" />
+  </a> 
+</p>
+
 
 - 🌱 I’m currently learning **MERN Stack and Azure**
 
