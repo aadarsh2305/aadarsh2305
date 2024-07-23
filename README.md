@@ -4,6 +4,8 @@
 </h3>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=aadarsh2305&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsh2305" /> </p>
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/105917614/201415026-4f3f4d1e-b314-478b-85ec-7a492ef3dd7c.gif"
 </div>
@@ -15,7 +17,6 @@
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarsh2305&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsh2305" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadarsh2305" alt="aadarsh2305" /></a> </p>
 
