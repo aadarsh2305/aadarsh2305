@@ -18,10 +18,6 @@
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadarsh2305" alt="aadarsh2305" /></a> </p>
-
-<img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
 <p align="left"> 
   <a href="https://linkedin.com/in/aadarshgupta2305" target="blank">
     <img src="https://img.shields.io/badge/-Aadarsh%20Gupta-blue?logo=linkedin&style=for-the-badge" alt="Aadarsh Gupta on LinkedIn" />
@@ -45,9 +41,8 @@
 
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
-<p align="left">
-<p align="left">
+<h2 align="center">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+<p align="center">
 <a href="https://twitter.com/aadarsh_gupta91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadarsh_gupta91" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aadarshgupta2305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aadarshgupta2305" height="30" width="40" /></a>
 <a href="https://instagram.com/aadarsh_gupta91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadarsh_gupta91" height="30" width="40" /></a>
