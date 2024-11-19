@@ -35,7 +35,7 @@
 
 - 📫 How to reach me **adarshgupta91111@gmail.com**
 
--  📄 Check [Resume](https://drive.google.com/file/d/1ZPkqPBm4WRYTNdBwm7ki0lAWcfAis9S5/view?usp=drive_link)
+-  📄 Check [Resume](https://drive.google.com/file/d/1qkP03FEX9ZGad_GNmYwHcDayxKSs9sAs/view?usp=drive_link)
 
 - ⚡ Fun fact **I have a pet cat named Java who loves to sit on my keyboard.**
 
